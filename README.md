@@ -11,6 +11,8 @@ Todays Topics
 ### H3 Cloud & DevOps
 
 ##### H5 Explanation:
+-Cloud is several servers put together where someone can store information. These servers are physically located elsewhere so the user does not have to store anything on their own computer.
+-DevOps aim is the shorten production time of a product. It is a combination of developemnent and operations.
 
 ##### H5 What I created:
 
@@ -19,6 +21,7 @@ Todays Topics
 ### H3 CICD
 
 ##### H5 Explanation:
+-The CI/CD pipeline helps automate deployment. When one runs build, it automatically goes through the stages like unit testing and integrations testing.
 
 ##### H5 What I created:
 
@@ -27,6 +30,7 @@ Todays Topics
 ### H3 Jenkins
 
 ##### H5 Explanation:
+-Jenkins is a program used with CI/CD pipelines.
 
 ##### H5 What I created:
 
@@ -35,6 +39,7 @@ Todays Topics
 ### H3 Provisioning
 
 ##### H5 Explanation:
+-Provisioning is to automate your commands. Instead of typing it in manually, you add them all to a file that runs and automatically installs software you need and runs through the commands you specify.
 
 ##### H5 What I created:
 
