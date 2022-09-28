@@ -7,7 +7,68 @@ Explanation of what you created with that tool / concept
 Detail of the benefit to using the this tool / concept
 Make this look really good with MARKDOWN  Add links to your code if you have examples.
 Todays Topics
-Cloud & DevOps
-CICD
-Jenkins
-Provisioning
+
+### H3 Cloud & DevOps
+
+## H2 Explanation:
+
+## H2 What I created:
+
+## H2 Benefits:
+
+### H3 CICD
+
+## H2 Explanation:
+
+## H2 What I created:
+
+## H2 Benefits:
+
+### H3 Jenkins
+
+## H2 Explanation:
+
+## H2 What I created:
+
+## H2 Benefits:
+
+### H3 Provisioning
+
+## H2 Explanation:
+
+## H2 What I created:
+
+## H2 Benefits:
+
+### H3 Networking
+
+## H2 Explanation:
+
+## H2 What I created:
+
+## H2 Benefits:
+
+### H3 Principle of Least Privilege
+
+## H2 Explanation:
+
+## H2 What I created:
+
+## H2 Benefits:
+
+### H3 IAC
+
+## H2 Explanation:
+
+## H2 What I created:
+
+## H2 Benefits:
+
+### H3 IACPacker and Terraform
+
+## H2 Explanation:
+
+## H2 What I created:
+
+## H2 Benefits:
+
